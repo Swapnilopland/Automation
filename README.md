@@ -101,14 +101,21 @@ EXPENSES MENU:
 2. View My Family Members Covered
 3. View Claims History
 4. Download Policy Document
+
+
 CLIENTS MENU:
 1. View All Clients
 2. Filter Clients by Status (Active/Inactive)
 3. View Client Contact Details
+
+
 TASKS MENU:
 1. View All My Tasks
 2. Filter Tasks by Status (Pending / In Progress / Completed)
 3. View Task Details
+
+
+
 PROJECTS MENU:
 1. View All Projects
 2. Filter Projects by Status (Active / Completed / On Hold)
